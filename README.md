@@ -1,1 +1,2 @@
 # web-lesson
+はじめてのGitだよ
