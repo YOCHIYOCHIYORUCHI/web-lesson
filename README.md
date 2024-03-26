@@ -9,5 +9,6 @@
 トップページから、ハンバーガーメニューもしくはページ下のリンクで、全4スポットの紹介ページに遷移します。<br>
 紹介ページからは、ハンバーガーメニューでトップページに戻ることができます。<br>
 ### ページ画像<br>
-https://github.com/YOCHIYOCHIYORUCHI/web-lesson/assets/152383376/194be58e-dad9-4dd1-90c9-9370d07dba3d<br>
-https://github.com/YOCHIYOCHIYORUCHI/web-lesson/assets/152383376/753bcc3b-cc2a-4c8e-9fee-dab49953ed21
+![スクリーンショット (120)](https://github.com/YOCHIYOCHIYORUCHI/web-lesson/assets/152383376/753bcc3b-cc2a-4c8e-9fee-dab49953ed21)<br>
+![スクリーンショット (119)](https://github.com/YOCHIYOCHIYORUCHI/web-lesson/assets/152383376/ac69cc39-3e4e-44c1-9823-44cbc6a1b8a0)
+
